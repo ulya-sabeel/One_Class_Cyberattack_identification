@@ -9,3 +9,5 @@ OCC is a unary classification technique where the rare classes in our dataset ar
 Prerequisites:
 
 Python >=3.6.0,  Keras = 2.2.4, Tensorflow >= 1.14.0
+
+Network Security Dataset Used: CICIDS2017
